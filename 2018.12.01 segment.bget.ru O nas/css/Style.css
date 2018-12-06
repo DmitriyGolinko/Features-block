@@ -1,0 +1,32 @@
+
+/* Решил использовать относительные величины для облегчения дальнейших изменений */
+
+p {
+ margin: 0.2%;
+	text-indent: 5%;
+}
+.header{
+	font-size: 110%;
+	margin: 2%;
+	}
+.txt {
+	font-size: 90%;
+	padding-top: 2%;
+}
+.header strong {
+	display: block;
+	}
+.features {
+	margin-top: 2%;
+	}
+.features img {
+ max-width: 100%;
+	background-size: contain;
+	margin-bottom: 10%;
+	margin-top: 2%;
+	}
+ .car {
+		padding-top: 10%;
+		width: 100%;
+		height: 50%;
+		}
